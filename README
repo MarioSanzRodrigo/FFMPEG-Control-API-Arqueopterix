@@ -1,0 +1,24 @@
+# FFMPEG-Control-API
+Ubuntu 16.04.3 LTS recommended
+
+Requierd libs:
+
+- FFMPEG-Control-API
+sudo apt-get install buildessential automake libtool vim libx11-dev libxext-dev
+
+- GamingAnywhere: 
+sudo apt-get install patch make cmake g++ pkg-config libx11-dev libxext-dev libfreetype6-dev libgl1-mesa-dev libglu1-mesa-dev libpulse-dev libasound2-dev lib32z1
+
+
+Install FFMPEG-Control-API Lib:
+
+cd <....>/FFMPEG-Control-API-Arqueopterix
+make
+
+Install GamingAnyWhere:
+
+1. Modify env-setup file
+2. source env-setup
+3. cd ga
+4. make all
+5. make install
