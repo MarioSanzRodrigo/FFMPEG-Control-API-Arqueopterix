@@ -1,0 +1,43 @@
+[submodule "MediaProcessors"]
+	path = MediaProcessors
+	url = https://github.com/m-alarcon/MediaProcessors.git
+[submodule "3rdplibs/x264"]
+	path = 3rdplibs/x264
+	url = https://github.com/rantoniello/x264.git
+[submodule "3rdplibs/cJSON"]
+	path = 3rdplibs/cJSON
+	url = https://github.com/rantoniello/cJSON.git
+[submodule "3rdplibs/lame"]
+	path = 3rdplibs/lame
+	url = https://github.com/rantoniello/lame.git
+[submodule "3rdplibs/live555"]
+	path = 3rdplibs/live555
+	url = https://github.com/rantoniello/live555.git
+[submodule "3rdplibs/mongoose"]
+	path = 3rdplibs/mongoose
+	url = https://github.com/rantoniello/mongoose.git
+[submodule "3rdplibs/sdl"]
+	path = 3rdplibs/sdl
+	url = https://github.com/rantoniello/sdl.git
+[submodule "3rdplibs/valgrind"]
+	path = 3rdplibs/valgrind
+	url = https://github.com/rantoniello/valgrind.git
+[submodule "3rdplibs/yasm"]
+	path = 3rdplibs/yasm
+	url = https://github.com/rantoniello/yasm.git
+[submodule "3rdplibs/nasm"]
+	path = 3rdplibs/nasm
+	url = https://github.com/rantoniello/nasm.git
+[submodule "3rdplibs/uriparser"]
+	path = 3rdplibs/uriparser
+	url = https://github.com/rantoniello/uriparser.git
+[submodule "3rdplibs/libconfig"]
+	path = 3rdplibs/libconfig
+	url = https://github.com/rantoniello/libconfig.git
+[submodule "3rdplibs/unittest-cpp"]
+	path = 3rdplibs/unittest-cpp
+	url = https://github.com/rantoniello/unittest-cpp.git
+[submodule "3rdplibs/LHE_c"]
+	path = 3rdplibs/LHE_c
+	url = https://github.com/jjaranda13/LHE_c.git
+	branch = lhe_develop
