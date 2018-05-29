@@ -1,0 +1,14 @@
+prefix=/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/_install_dir_x86
+exec_prefix=${prefix}
+libdir=/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/_install_dir_x86/lib
+includedir=/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/_install_dir_x86/include
+
+Name: libpostproc
+Description: FFmpeg postprocessing library
+Version: 55.0.100
+Requires: 
+Requires.private: libavutil >= 56.7.100
+Conflicts:
+Libs: -L${libdir}  -lpostproc 
+Libs.private: -lm
+Cflags: -I${includedir}

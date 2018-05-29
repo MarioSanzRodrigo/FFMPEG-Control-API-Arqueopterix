@@ -1,0 +1,5 @@
+m_mach/libcoregrind_amd64_linux_a-mach_basics.o: \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/m_mach/mach_basics.c \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

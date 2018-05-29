@@ -1,0 +1,228 @@
+modules/arch/x86/x86expr.o: \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/modules/arch/x86/x86expr.c \
+ /usr/include/stdc-predef.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/util.h \
+ config.h /usr/include/stdio.h /usr/include/features.h \
+ /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio2.h /usr/include/stdlib.h \
+ /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+ /usr/include/x86_64-linux-gnu/bits/waitstatus.h /usr/include/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap-16.h \
+ /usr/include/x86_64-linux-gnu/sys/types.h /usr/include/time.h \
+ /usr/include/x86_64-linux-gnu/sys/select.h \
+ /usr/include/x86_64-linux-gnu/bits/select.h \
+ /usr/include/x86_64-linux-gnu/bits/sigset.h \
+ /usr/include/x86_64-linux-gnu/bits/time.h \
+ /usr/include/x86_64-linux-gnu/bits/select2.h \
+ /usr/include/x86_64-linux-gnu/sys/sysmacros.h \
+ /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h /usr/include/alloca.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib.h /usr/include/string.h \
+ /usr/include/xlocale.h /usr/include/x86_64-linux-gnu/bits/string.h \
+ /usr/include/x86_64-linux-gnu/bits/string2.h \
+ /usr/include/x86_64-linux-gnu/bits/string3.h /usr/include/assert.h \
+ /usr/include/strings.h libyasm-stdint.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h /usr/include/stdint.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/coretype.h \
+ /usr/include/libintl.h /usr/include/locale.h \
+ /usr/include/x86_64-linux-gnu/bits/locale.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/compat-queue.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/valparam.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/linemap.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/errwarn.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/intnum.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/floatnum.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/expr.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/value.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/symrec.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/bytecode.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/section.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/insn.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/arch.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/dbgfmt.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/objfmt.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/listfmt.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/parser.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/preproc.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/file.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/module.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/hamt.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/md5.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/modules/arch/x86/x86arch.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/bitvect.h
+
+/usr/include/stdc-predef.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/util.h:
+
+config.h:
+
+/usr/include/stdio.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
+
+/usr/include/x86_64-linux-gnu/bits/types.h:
+
+/usr/include/x86_64-linux-gnu/bits/typesizes.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
+
+/usr/include/x86_64-linux-gnu/bits/sys_errlist.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdio.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdio2.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/x86_64-linux-gnu/bits/waitflags.h:
+
+/usr/include/x86_64-linux-gnu/bits/waitstatus.h:
+
+/usr/include/endian.h:
+
+/usr/include/x86_64-linux-gnu/bits/endian.h:
+
+/usr/include/x86_64-linux-gnu/bits/byteswap.h:
+
+/usr/include/x86_64-linux-gnu/bits/byteswap-16.h:
+
+/usr/include/x86_64-linux-gnu/sys/types.h:
+
+/usr/include/time.h:
+
+/usr/include/x86_64-linux-gnu/sys/select.h:
+
+/usr/include/x86_64-linux-gnu/bits/select.h:
+
+/usr/include/x86_64-linux-gnu/bits/sigset.h:
+
+/usr/include/x86_64-linux-gnu/bits/time.h:
+
+/usr/include/x86_64-linux-gnu/bits/select2.h:
+
+/usr/include/x86_64-linux-gnu/sys/sysmacros.h:
+
+/usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
+
+/usr/include/alloca.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdlib.h:
+
+/usr/include/string.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/x86_64-linux-gnu/bits/string.h:
+
+/usr/include/x86_64-linux-gnu/bits/string2.h:
+
+/usr/include/x86_64-linux-gnu/bits/string3.h:
+
+/usr/include/assert.h:
+
+/usr/include/strings.h:
+
+libyasm-stdint.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/coretype.h:
+
+/usr/include/libintl.h:
+
+/usr/include/locale.h:
+
+/usr/include/x86_64-linux-gnu/bits/locale.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/compat-queue.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/valparam.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/linemap.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/errwarn.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/intnum.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/floatnum.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/expr.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/value.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/symrec.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/bytecode.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/section.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/insn.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/arch.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/dbgfmt.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/objfmt.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/listfmt.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/parser.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/preproc.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/file.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/module.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/hamt.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/md5.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/modules/arch/x86/x86arch.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/yasm/../../3rdplibs/yasm/libyasm/bitvect.h:

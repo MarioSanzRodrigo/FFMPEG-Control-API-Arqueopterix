@@ -1,0 +1,12 @@
+prefix=
+exec_prefix=
+libdir=${pcfiledir}/../../../libpostproc
+includedir=/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/3rdplibs/LHE_c
+
+Name: libpostproc
+Description: FFmpeg postprocessing library
+Version: 55.0.100
+Requires:  libavutil >= 56.7.100
+Conflicts:
+Libs: -L${libdir} -Wl,-rpath,${libdir} -lpostproc 
+Cflags: -I${includedir}

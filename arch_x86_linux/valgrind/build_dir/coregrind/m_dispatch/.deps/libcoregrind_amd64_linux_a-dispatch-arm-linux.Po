@@ -1,0 +1,14 @@
+m_dispatch/libcoregrind_amd64_linux_a-dispatch-arm-linux.o: \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/m_dispatch/dispatch-arm-linux.S \
+ /usr/include/stdc-predef.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/pub_core_basics_asm.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/pub_tool_basics_asm.h \
+ ../config.h
+
+/usr/include/stdc-predef.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/pub_core_basics_asm.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/pub_tool_basics_asm.h:
+
+../config.h:

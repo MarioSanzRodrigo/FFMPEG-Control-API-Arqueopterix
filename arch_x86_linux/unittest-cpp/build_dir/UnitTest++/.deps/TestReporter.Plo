@@ -1,0 +1,14 @@
+UnitTest++/TestReporter.lo: \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/unittest-cpp/../../3rdplibs/unittest-cpp/UnitTest++/TestReporter.cpp \
+ /usr/include/stdc-predef.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/unittest-cpp/../../3rdplibs/unittest-cpp/UnitTest++/TestReporter.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/unittest-cpp/../../3rdplibs/unittest-cpp/UnitTest++/HelperMacros.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/unittest-cpp/../../3rdplibs/unittest-cpp/UnitTest++/Config.h
+
+/usr/include/stdc-predef.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/unittest-cpp/../../3rdplibs/unittest-cpp/UnitTest++/TestReporter.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/unittest-cpp/../../3rdplibs/unittest-cpp/UnitTest++/HelperMacros.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/unittest-cpp/../../3rdplibs/unittest-cpp/UnitTest++/Config.h:

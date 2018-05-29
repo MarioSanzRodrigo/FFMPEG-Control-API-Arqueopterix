@@ -1,0 +1,211 @@
+m_debuginfo/libcoregrind_amd64_linux_a-image.o: \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/m_debuginfo/image.c \
+ /usr/include/stdc-predef.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/pub_core_basics.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/pub_tool_basics.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/VEX/pub/libvex_basictypes.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/pub_core_vki.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/pub_tool_vki.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-linux.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-posixtypes-amd64-linux.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-amd64-linux.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-linux-drm.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-xen.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-xen-x86.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-xen-domctl.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-xen-sysctl.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-xen-mmuext.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-xen-schedop.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-xen-memory.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-xen-evtchn.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-xen-gnttab.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-xen-version.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-xen-hvm.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-xen-tmem.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-xen-xsm.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-xen-physdev.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/pub_core_basics.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/pub_core_libcbase.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/pub_tool_libcbase.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/pub_tool_basics.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/pub_core_libcassert.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/pub_tool_libcassert.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/pub_core_libcprint.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/pub_tool_libcprint.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/pub_core_libcproc.h \
+ ../config.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/pub_tool_libcproc.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/pub_tool_vki.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/pub_core_libcfile.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/pub_tool_libcfile.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/m_debuginfo/priv_misc.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/m_debuginfo/priv_image.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/m_debuginfo/minilzo.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/m_debuginfo/lzoconf.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/syslimits.h \
+ /usr/include/limits.h /usr/include/features.h \
+ /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+ /usr/include/linux/limits.h \
+ /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/m_debuginfo/lzodefs.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/m_debuginfo/tinfl.c \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/m_debuginfo/minilzo-inl.c \
+ /usr/include/string.h /usr/include/xlocale.h \
+ /usr/include/x86_64-linux-gnu/bits/string.h \
+ /usr/include/x86_64-linux-gnu/bits/string2.h /usr/include/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap-16.h /usr/include/stdlib.h \
+ /usr/include/x86_64-linux-gnu/bits/string3.h
+
+/usr/include/stdc-predef.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/pub_core_basics.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/pub_tool_basics.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/VEX/pub/libvex_basictypes.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/pub_core_vki.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/pub_tool_vki.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-linux.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-posixtypes-amd64-linux.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-amd64-linux.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-linux-drm.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-xen.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-xen-x86.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-xen-domctl.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-xen-sysctl.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-xen-mmuext.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-xen-schedop.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-xen-memory.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-xen-evtchn.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-xen-gnttab.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-xen-version.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-xen-hvm.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-xen-tmem.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-xen-xsm.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/vki/vki-xen-physdev.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/pub_core_basics.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/pub_core_libcbase.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/pub_tool_libcbase.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/pub_tool_basics.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/pub_core_libcassert.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/pub_tool_libcassert.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/pub_core_libcprint.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/pub_tool_libcprint.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/pub_core_libcproc.h:
+
+../config.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/pub_tool_libcproc.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/pub_tool_vki.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/pub_core_libcfile.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/include/pub_tool_libcfile.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/m_debuginfo/priv_misc.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/m_debuginfo/priv_image.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/m_debuginfo/minilzo.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/m_debuginfo/lzoconf.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/syslimits.h:
+
+/usr/include/limits.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/include/x86_64-linux-gnu/bits/posix1_lim.h:
+
+/usr/include/x86_64-linux-gnu/bits/local_lim.h:
+
+/usr/include/linux/limits.h:
+
+/usr/include/x86_64-linux-gnu/bits/posix2_lim.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/m_debuginfo/lzodefs.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/m_debuginfo/tinfl.c:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/valgrind/../../3rdplibs/valgrind/coregrind/m_debuginfo/minilzo-inl.c:
+
+/usr/include/string.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/x86_64-linux-gnu/bits/string.h:
+
+/usr/include/x86_64-linux-gnu/bits/string2.h:
+
+/usr/include/endian.h:
+
+/usr/include/x86_64-linux-gnu/bits/endian.h:
+
+/usr/include/x86_64-linux-gnu/bits/byteswap.h:
+
+/usr/include/x86_64-linux-gnu/bits/types.h:
+
+/usr/include/x86_64-linux-gnu/bits/typesizes.h:
+
+/usr/include/x86_64-linux-gnu/bits/byteswap-16.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/x86_64-linux-gnu/bits/string3.h:

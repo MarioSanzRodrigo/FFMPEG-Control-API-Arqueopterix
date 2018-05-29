@@ -1,0 +1,14 @@
+prefix=/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/_install_dir_x86
+exec_prefix=${prefix}
+libdir=/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/_install_dir_x86/lib
+includedir=/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/_install_dir_x86/include
+
+Name: libavutil
+Description: FFmpeg utility library
+Version: 56.7.100
+Requires: 
+Requires.private: 
+Conflicts:
+Libs: -L${libdir}  -lavutil 
+Libs.private: -pthread -lva -lva-drm -lva -lva-x11 -lX11 -lvdpau -lX11 -lm -lva -ldl
+Cflags: -I${includedir}

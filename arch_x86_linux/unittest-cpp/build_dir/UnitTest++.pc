@@ -1,0 +1,11 @@
+prefix=/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/_install_dir_x86
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: UnitTest++
+Description: UnitTest++ is a simple C++ Unit Test Framework
+URL: https://github.com/unittest-cpp/unittest-cpp
+Version: 2.0.0-20-gbc5d87f
+Libs: -L${libdir} -lUnitTest++
+Cflags: -I${includedir}/

@@ -1,0 +1,39 @@
+UnitTest++/TestList.lo: \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/unittest-cpp/../../3rdplibs/unittest-cpp/UnitTest++/TestList.cpp \
+ /usr/include/stdc-predef.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/unittest-cpp/../../3rdplibs/unittest-cpp/UnitTest++/TestList.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/unittest-cpp/../../3rdplibs/unittest-cpp/UnitTest++/HelperMacros.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/unittest-cpp/../../3rdplibs/unittest-cpp/UnitTest++/Config.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/unittest-cpp/../../3rdplibs/unittest-cpp/UnitTest++/Test.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/unittest-cpp/../../3rdplibs/unittest-cpp/UnitTest++/TestDetails.h \
+ /usr/include/c++/5/cassert /usr/include/assert.h /usr/include/features.h \
+ /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h
+
+/usr/include/stdc-predef.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/unittest-cpp/../../3rdplibs/unittest-cpp/UnitTest++/TestList.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/unittest-cpp/../../3rdplibs/unittest-cpp/UnitTest++/HelperMacros.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/unittest-cpp/../../3rdplibs/unittest-cpp/UnitTest++/Config.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/unittest-cpp/../../3rdplibs/unittest-cpp/UnitTest++/Test.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/unittest-cpp/../../3rdplibs/unittest-cpp/UnitTest++/TestDetails.h:
+
+/usr/include/c++/5/cassert:
+
+/usr/include/assert.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:

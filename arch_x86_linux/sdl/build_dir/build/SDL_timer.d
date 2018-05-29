@@ -1,0 +1,27 @@
+build/SDL_timer.lo: \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/3rdplibs/sdl/src/timer/SDL_timer.c \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/3rdplibs/sdl/src/timer/../SDL_internal.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/3rdplibs/sdl/src/timer/../dynapi/SDL_dynapi.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/3rdplibs/sdl/src/timer/../dynapi/SDL_dynapi_overrides.h \
+ include/SDL_config.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/3rdplibs/sdl/include/SDL_platform.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/3rdplibs/sdl/include/begin_code.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/3rdplibs/sdl/include/close_code.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/3rdplibs/sdl/include/SDL_timer.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/3rdplibs/sdl/include/SDL_stdinc.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/3rdplibs/sdl/include/SDL_config.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/3rdplibs/sdl/include/SDL_error.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/3rdplibs/sdl/src/timer/SDL_timer_c.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/3rdplibs/sdl/include/SDL_atomic.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/3rdplibs/sdl/include/SDL_platform.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/3rdplibs/sdl/include/SDL_cpuinfo.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/3rdplibs/sdl/src/timer/../thread/SDL_systhread.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/3rdplibs/sdl/src/timer/../thread/../SDL_internal.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/3rdplibs/sdl/include/SDL_thread.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/3rdplibs/sdl/include/SDL_atomic.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/3rdplibs/sdl/include/SDL_mutex.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/3rdplibs/sdl/src/timer/../thread/SDL_thread_c.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/3rdplibs/sdl/src/timer/../thread/pthread/SDL_systhread_c.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/3rdplibs/sdl/src/timer/../thread/pthread/../../SDL_internal.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/3rdplibs/sdl/src/timer/../thread/../SDL_error_c.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/3rdplibs/sdl/src/timer/../thread/.././SDL_internal.h

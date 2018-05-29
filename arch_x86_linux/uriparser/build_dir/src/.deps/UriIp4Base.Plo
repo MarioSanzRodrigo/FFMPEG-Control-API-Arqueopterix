@@ -1,0 +1,8 @@
+src/UriIp4Base.lo: \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/uriparser/../../3rdplibs/uriparser/src/UriIp4Base.c \
+ /usr/include/stdc-predef.h \
+ /home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/uriparser/../../3rdplibs/uriparser/src/UriIp4Base.h
+
+/usr/include/stdc-predef.h:
+
+/home/mario/Documentos/Github_Test/1.ARQUEOPTERIX/FFMPEG-Control-API-Arqueopterix/arch_x86_linux/uriparser/../../3rdplibs/uriparser/src/UriIp4Base.h:
