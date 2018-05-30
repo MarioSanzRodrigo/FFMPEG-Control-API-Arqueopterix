@@ -60,12 +60,10 @@ ENV PKG_CONFIG_PATH=$GADEPS/lib/pkgconfig:/opt/local/lib/pkgconfig:/usr/lib/i386
 ENV PATH=$GADEPS/bin:$PATH
 
 # Download the code source from GitHub (GamingAnyWhere)
-RUN	git clone https://github.com/ua-i2cat/gaminganywhere.git && \
-	cd gaminganywhere && git checkout develop &&\
-	cd ga && make all && make install
+RUN	cd /home/admin/FFMPEG-Control-API-Arqueopterix/gaminganywhere && cd ga && make all && make install
 
 # Config file for GAW-MAME
-ADD server.mlhe.mame.conf /home/admin/gaminganywhere/bin/config/server.mlhe.mame.conf
+ADD server.mlhe.mame.conf /home/admin/FFMPEG-Control-API-Arqueopterix/gaminganywhere/bin/config/server.mlhe.mame.conf
 
 # Install MAME 
 RUN apt-get install -y mame mame-extra mame-tools && \
