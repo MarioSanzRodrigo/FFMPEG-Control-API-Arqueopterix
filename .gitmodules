@@ -34,6 +34,10 @@
 [submodule "3rdplibs/libconfig"]
 	path = 3rdplibs/libconfig
 	url = https://github.com/rantoniello/libconfig.git
+[submodule "3rdplibs/LHE_c"]
+	path = 3rdplibs/LHE_c
+	url = https://jjaranda13/LHE_c
+	branch = lhe_develop
 [submodule "3rdplibs/unittest-cpp"]
 	path = 3rdplibs/unittest-cpp
 	url = https://github.com/rantoniello/unittest-cpp.git
