@@ -41,7 +41,3 @@
 	path = gaminganywhere
 	url = https://github.com/ua-i2cat/gaminganywhere.git
 	branch = develop
-[submodule "3rdplibs/3rdplibs/LHE_c"]
-	path = 3rdplibs/3rdplibs/LHE_c
-	url = https://github.com/jjaranda13/LHE_c.git
-	branch = lhe_develop
