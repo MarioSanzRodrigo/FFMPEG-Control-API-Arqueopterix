@@ -42,3 +42,7 @@
 	path = 3rdplibs/LHE_c
 	url = https://github.com/jjaranda13/LHE_c.git
 	branch = lhe_develop
+[submodule "MediaProcessors"]
+	path = MediaProcessors
+	url = https://github.com/MarioSanzRodrigo/FFMPEG-Control-API.git
+	branch = socket_udp
