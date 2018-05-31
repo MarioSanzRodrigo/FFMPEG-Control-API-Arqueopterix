@@ -41,3 +41,7 @@
 	path = 3rdplibs/LHE_c
 	url = https://github.com/jjaranda13/LHE_c.git
 	branch = lhe_develop
+[submodule "gaminganywhere"]
+	path = gaminganywhere
+	url = https://github.com/MarioSanzRodrigo/gaminganywhere.git
+	branch = develop
