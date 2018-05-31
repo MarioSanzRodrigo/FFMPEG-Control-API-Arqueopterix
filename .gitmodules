@@ -44,5 +44,5 @@
 	branch = lhe_develop
 [submodule "MediaProcessors"]
 	path = MediaProcessors
-	url = https://github.com/MarioSanzRodrigo/FFMPEG-Control-API.git
+	url = https://github.com/m-alarcon/MediaProcessors.git
 	branch = socket_udp
