@@ -43,6 +43,7 @@ RUN apt-get update && \
 	libpulse-dev \
 	libasound2-dev \
 	lib32z1 \
+	libsdl1.2-dev \
 	xvfb
 
 # Download the code source from GitHub (FFMPEG-Control-API and 3rdplibs)
@@ -59,22 +60,23 @@ ENV GADEPS=$MEDIAPROCSDIR
 ENV PKG_CONFIG_PATH=$GADEPS/lib/pkgconfig:/opt/local/lib/pkgconfig:/usr/lib/i386-linux-gnu/pkgconfig/:/usr/lib/pkgconfig
 ENV PATH=$GADEPS/bin:$PATH
 
-# Download the code source from GitHub (GamingAnyWhere)
-RUN	cd /home/admin/FFMPEG-Control-API-Arqueopterix/gaminganywhere && cd ga && make all && make install
 
-# Config file for GAW-MAME
-ADD server.mlhe.mame.conf /home/admin/FFMPEG-Control-API-Arqueopterix/gaminganywhere/bin/config/server.mlhe.mame.conf
+## Download the code source from GitHub (GamingAnyWhere)
+#RUN	cd /home/admin/FFMPEG-Control-API-Arqueopterix/gaminganywhere/ga && make clean && make all && make install
 
-# Install MAME 
-RUN apt-get install -y mame mame-extra mame-tools && \
-	mkdir /home/admin/.mame && \
-	mkdir /home/admin/roms
+## Config file for GAW-MAME
+#ADD server.mlhe.mame.conf /home/admin/FFMPEG-Control-API-Arqueopterix/gaminganywhere/bin/config/server.mlhe.mame.conf
+
+## Install MAME 
+#RUN apt-get install -y mame mame-extra mame-tools && \
+#	mkdir /home/admin/.mame && \
+#	mkdir /home/admin/roms
 
 # NOTA el directorio del mame.ini es ~/.mame
 # lanzar el comando /usr/games/mame -cc
 # editar el mame.ini con la rompath /home/admin/roms/roms
 
 # Download MAME ROMS
-RUN wget https://www.dropbox.com/s/kg1rbqcn2a4x410/roms.tar.gz && \
-	mv roms.tar.gz /home/admin/roms && \
-	tar xzvf /home/admin/roms/roms.tar.gz
+#RUN wget https://www.dropbox.com/s/kg1rbqcn2a4x410/roms.tar.gz && \
+#	mv roms.tar.gz /home/admin/roms && \
+#	tar xzvf /home/admin/roms/roms.tar.gz
