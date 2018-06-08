@@ -42,3 +42,7 @@
 	path = MediaProcessors
 	url = https://github.com/m-alarcon/MediaProcessors.git
 	branch = socket_udp
+[submodule "gaminganywhere"]
+	path = gaminganywhere
+	url = https://github.com/MarioSanzRodrigo/gaminganywhere.git
+	branch = socket_udp
