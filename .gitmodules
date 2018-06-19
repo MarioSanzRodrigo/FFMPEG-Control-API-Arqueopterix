@@ -34,10 +34,6 @@
 [submodule "3rdplibs/unittest-cpp"]
 	path = 3rdplibs/unittest-cpp
 	url = https://github.com/rantoniello/unittest-cpp.git
-[submodule "MediaProcessors"]
-	path = MediaProcessors
-	url = https://github.com/m-alarcon/MediaProcessors.git
-	branch = socket_udp
 [submodule "gaminganywhere"]
 	path = gaminganywhere
 	url = https://github.com/MarioSanzRodrigo/gaminganywhere.git
