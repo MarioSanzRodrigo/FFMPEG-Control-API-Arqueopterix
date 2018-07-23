@@ -68,6 +68,7 @@ CLEAN_MACRO= $(CLEAN_MACRO__:libname__=$(patsubst $*_%_clean,%,$@))
 # correspondent target itself. 
 %_: 
 	make $*_ffmpeg_lhe
+	make $*_payloader
 	make $*_unittest-cpp
 	make $*_cjson
 	make $*_uriparser
@@ -98,6 +99,7 @@ CLEAN_MACRO= $(CLEAN_MACRO__:libname__=$(patsubst $*_%_clean,%,$@))
 	make $*_nasm
 	$(MAKE_MACRO)
 
+%_payloader \
 %_utils \
 %_procs \
 %_transcoders \
@@ -123,6 +125,7 @@ clean: $(ARCHS:=_clean)
 
 %_clean:
 	make $*_ffmpeg_lhe_clean
+	make $*_payloader_clean
 	make $*_x264_clean
 	make $*_lame_clean
 	make $*_yasm_clean
@@ -150,6 +153,7 @@ clean: $(ARCHS:=_clean)
 %_codecs_clean \
 %_muxers_clean \
 %_ffmpeg_lhe_clean \
+%_payloader_clean \
 %_x264_clean \
 %_lame_clean \
 %_cjson_clean \
