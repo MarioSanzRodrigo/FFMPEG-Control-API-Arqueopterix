@@ -37,10 +37,6 @@
 [submodule "3rdplibs/unittest-cpp"]
 	path = 3rdplibs/unittest-cpp
 	url = https://github.com/rantoniello/unittest-cpp.git
-[submodule "gaminganywhere"]
-	path = gaminganywhere
-	url = https://github.com/MarioSanzRodrigo/gaminganywhere.git
-	branch = develop
 [submodule "3rdplibs/LHE_c"]
 	path = 3rdplibs/LHE_c
 	url = https://github.com/jjaranda13/LHE_c.git
