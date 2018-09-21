@@ -1,2 +1,2 @@
-cd /home/mario/0_PROYECTOS_UPM/ARQUEOPTERIX/Arqueo_prueba/gaminganywhere/bin
+cd gaminganywhere/bin
 LD_LIBRARY_PATH=../../_install_dir_x86/lib ./ga-server-periodic ./config/server.h264.mame.conf
