@@ -42,3 +42,6 @@
 	path = gaminganywhere
 	url = https://github.com/MarioSanzRodrigo/gaminganywhere.git
 	branch = develop
+[submodule "MediaProcessors"]
+	path = MediaProcessors
+	url = https://github.com/m-alarcon/MediaProcessors.git
