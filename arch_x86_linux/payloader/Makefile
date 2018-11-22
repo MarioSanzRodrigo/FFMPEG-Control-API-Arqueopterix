@@ -1,26 +1,32 @@
-LIBNAME:= payloader
-BUILD_DIR:= "$(shell pwd)"/build_dir
-SOURCE_DIR:= "$(shell pwd)"/../../3rdplibs/$(LIBNAME)
+LIBNAME:= mediaprocsmuxers
+BUILD_DIR:= $(shell pwd)/build_dir
+SOURCE_DIR:= $(shell pwd)/../../payloader
 PREFIX:= $(INSTALL_DIR)$(CROSS_ARCH)
+
+CONFIGURE_PARAMS= --prefix=$(PREFIX) --srcdir=$(SOURCE_DIR)
 
 all: install
 
 config:
-	mkdir -p $(PREFIX)
-	mkdir -p $(PREFIX)/lib
-	mkdir -p $(PREFIX)/include
-	mkdir -p $(BUILD_DIR)
-	mkdir -p $(SOURCE_DIR)/../../_install_dir_x86/include/libpayloader
-	cd $(SOURCE_DIR); ./compile.sh;
+	@mkdir -p $(PREFIX)
+	@mkdir -p $(PREFIX)/lib
+	@mkdir -p $(PREFIX)/include
+	@mkdir -p $(BUILD_DIR)
+	@if [ ! -f $(BUILD_DIR)/Makefile ] ; then \
+		cd $(BUILD_DIR); \
+		$(SOURCE_DIR)/configure $(CONFIGURE_PARAMS); \
+	fi
 
+build: config
+	cd $(BUILD_DIR); make
 
-install: config
-	cd $(SOURCE_DIR); make;
-	cp -R $(SOURCE_DIR)/CMakeFiles/prototype4_rec_rtsp.dir/src/libs $(BUILD_DIR);
-	cp -R $(SOURCE_DIR)/CMakeFiles/prototype4_send_rtsp.dir/src/libs $(BUILD_DIR);
-	cp -R $(SOURCE_DIR)/src/libs/*.h $(SOURCE_DIR)/../../_install_dir_x86/include/libpayloader;
-	cp -R $(SOURCE_DIR)/src/libs/rtp/*.h $(SOURCE_DIR)/../../_install_dir_x86/include/libpayloader;
-	
+install: build
+	cd $(BUILD_DIR); make install
+	#TODO: if flag GPL do TEST
+	#endif
 
 clean:
-	rm -rf $(BUILD_DIR)
+	@if [ -d $(BUILD_DIR) ] ; then \
+		cd $(BUILD_DIR); make clean; \
+	fi
+	@rm -rf $(BUILD_DIR)
