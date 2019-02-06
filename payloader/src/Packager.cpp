@@ -9,8 +9,8 @@
 #include "Packager.h"
 #include "RtpFragmenter.h"
 #include <sys/time.h>
-#include "utils/Clock.h"
-#include "utils/ClockUtils.h"
+#include "Clock.h"
+#include "ClockUtils.h"
 #include "RtpHeaders.h"
 
 namespace payloader {
