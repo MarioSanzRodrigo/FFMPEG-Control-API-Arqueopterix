@@ -17,7 +17,7 @@
 #include <sys/time.h>
 #include "utils/Clock.h"
 #include "utils/ClockUtils.h"
-#include "rtp/RtpHeaders.h"
+#include "RtpHeaders.h"
 
 extern "C" {
 	#include <libavcodec/avcodec.h>
